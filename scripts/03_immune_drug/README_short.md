@@ -41,4 +41,4 @@ This script performs downstream annotation for prioritized eGenes, including:
 1) Edit the three `setwd("D:/file/...")` lines in the script to match your local folders.
 2) In R/RStudio:
 ```r
-source("run_egene_annotation.R")
+source("immune_drug.R")
