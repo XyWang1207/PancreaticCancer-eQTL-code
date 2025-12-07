@@ -1,4 +1,4 @@
-# 04_enrichment_differentialexpression
+# enrichment and differential expression analyses
 
 This folder contains two analysis scripts used for (i) functional enrichment of prioritized eGenes and (ii) differential expression analyses in public GEO datasets (paired and non-paired designs).
 
