@@ -29,4 +29,4 @@ If your file is not ordered in pairs, please sort/group by eQTL before running.
 ```r
 setwd("D:/file/meta_eqtl")
 2) Run in R/RStudio:
-source("run_eqtl_meta.R")
+source("eqtl_meta.R")
