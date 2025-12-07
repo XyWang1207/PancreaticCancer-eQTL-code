@@ -9,10 +9,10 @@ This folder contains two analysis scripts used for (i) functional enrichment of 
 
 ## Contents
 
-- `run_enrichment_GO_KEGG.R`  
+- `go:kegg_enrichment.R`  
   GO and KEGG enrichment analysis for the eGene list (clusterProfiler).
 
-- `run_GEO_DE_limma.R`  
+- `differential expression.R`  
   Differential expression of selected genes in:
   - **GSE62165** (non-paired tumor vs normal)
   - **GSE15471** (paired tumor vs normal with patient blocking)
@@ -30,7 +30,7 @@ Place the following file in the working directory (or edit `setwd()` inside the 
 ### Run
 In R/RStudio:
 ```r
-source("run_enrichment_GO_KEGG.R")
+source("go:kegg_enrichment.R")
 
 ````
 
@@ -67,7 +67,7 @@ This script follows a GEO2R-style workflow:
 Edit `setwd()` to point to your local folders (recommended: one folder per dataset), then run:
 
 ```r
-source("run_GEO_DE_limma.R")
+source("differential expression.R")
 ```
 
 ### Output (per dataset)
