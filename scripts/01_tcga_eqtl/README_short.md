@@ -1,4 +1,4 @@
-# TCGA eQTL (copy-and-run)
+# TCGA eQTL
 
 ## Input files (place in the corresponding folders and/or update `setwd()` paths in the R script)
 **Part 1 (INT transform; optional)**  
