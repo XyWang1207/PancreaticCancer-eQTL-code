@@ -1,4 +1,4 @@
-# Code availability (Advanced Science revision)
+# Code availability
 
 This repository provides custom R scripts used in the main computational analyses of our manuscript, including:
 1) TCGA pancreatic eQTL mapping
@@ -26,4 +26,4 @@ Please obtain TCGA/GTEx/public resource data through authorized channels as desc
 - Fig 4 (Circos): `05_circos`
 
 ## Software
-R version and package details are documented in `docs/sessionInfo_R.txt` or at the top of each script.
+R version and package details are documented in `docs/sessionInfo_R.txt`.
