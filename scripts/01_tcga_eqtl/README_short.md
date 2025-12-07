@@ -18,7 +18,7 @@
 
 ## Run
 Open R (or RStudio), set working directories inside the script (the three `setwd("D:/file/...")` lines), then run:
-- `source("run_tcga_eqtl.R")`
+- `source("tcga_eqtl.R")`
 
 ## Output
 The script writes intermediate files (INT matrix, residual expression matrix) and MatrixEQTL results:
