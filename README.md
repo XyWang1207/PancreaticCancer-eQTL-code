@@ -26,4 +26,4 @@ Please obtain TCGA/GTEx/public resource data through authorized channels as desc
 - Fig 4 (Circos): `05_circos`
 
 ## Software
-R version and package details are documented in `docs/sessionInfo_R.txt`.
+R version and package details are documented in `sessionInfo_R.txt`.
