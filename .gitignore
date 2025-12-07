@@ -1,0 +1,19 @@
+# data / large files (do not upload)
+data/
+results/
+*.rds
+*.RData
+*.Rhistory
+*.csv
+*.tsv
+*.txt
+*.tsv.gz
+*.csv.gz
+*.bam
+*.fastq*
+*.vcf*
+*.bed
+*.bim
+*.fam
+*.pdf
+*.zip
